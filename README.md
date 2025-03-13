@@ -14,14 +14,10 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 ## 🌐 Acesso ao Projeto
 
-[Clique aqui para acessar o projeto](https://amigo-secreto-sorteio-one.vercel.app/) 
-
-[![GitHub clone button](https://img.shields.io/badge/Clone%20Project-Click%20Here-green)](https://github.com/bianca-bomfim/Amigo-Secreto)
-
+[Clique aqui para acessar o projeto](https://amigo-secreto-seven-omega.vercel.app/) 
 
 
 ## 💡 Como Rodar o Projeto
-
 
 
 ### Pré-requisitos
@@ -32,7 +28,7 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 1. Clone o repositório no terminal:
    ```bash
-   git clone https://github.com/bianca-bomfim/Amigo-Secreto
+   git clone https://github.com/bianca-bomfim/amigo-secreto
    ``` 
 
 2. Abra o arquivo index.html no Visual Studio Code e use a extensão "Live Server" para rodar o projeto em um navegador.

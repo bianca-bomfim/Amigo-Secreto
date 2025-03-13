@@ -56,4 +56,4 @@ Este projeto foi desenvolvido para sortear amigos de forma aleatória, sendo per
 
 Agora que você já aprendeu as funcionalidades e como utilizar o projeto, entre na brincadeira também e organize o seu amigo secreto de forma fácil e divertida! 🎁
 
-[Clique aqui para acessar o projeto e começar!](https://amigo-secreto-sorteio-one.vercel.app/)
+[Clique aqui para acessar o projeto e começar!](https://amigo-secreto-seven-omega.vercel.app/)

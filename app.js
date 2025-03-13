@@ -32,6 +32,9 @@ function sortearAmigo() {
 
         let resultado = document.getElementById('resultado');
         resultado.innerHTML = `<li>${sorteado}</li>`;
+        
+        let lista = document.getElementById('listaAmigos');
+        lista.innerHTML = "";
     } else {
         alert('Adicione amigos para realizar o sorteio');
     }
